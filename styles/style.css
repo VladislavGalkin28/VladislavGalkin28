@@ -1,7 +1,6 @@
 .header {
   display: grid;
   grid-template-columns: auto 1fr auto;
-  margin: 0 auto;
   align-items: center;
   margin: 92px 47px 92px 49px;
 }
@@ -36,11 +35,11 @@
 }
 
 .address {
+  font-size: 18px;
+  font-style: normal;
   display: flex;
   flex-direction: column;
   margin-right: 4px;
-  font-size: 18px;
-  font-style: normal;
   line-height: 22px;
 }
 
@@ -66,12 +65,12 @@
 }
 
 .cover__title {
-  color: #fff;
   font-size: 100px;
   font-style: normal;
   font-weight: 700;
   line-height: 100%;
   text-transform: uppercase;
+  color: #fff;
   z-index: 1;
   display: grid;
   padding: 173px 50px 0;
@@ -202,18 +201,18 @@
 }
 
 .card__title {
+  font-size: 22px;
   z-index: 1;
   color: #fff;
-  font-size: 22px;
   line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
 }
 
 .card__text {
+  font-size: 20px;
   z-index: 1;
   color: #fff;
-  font-size: 20px;
 }
 
 .lots__look-more-link {
