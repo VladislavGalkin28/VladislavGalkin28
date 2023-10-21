@@ -1,4 +1,4 @@
-https://github.com/VladislavGalkin28/VladislavGalkin_OTN.git
+https://github.com/VladislavGalkin28/VladislavGalkin_OTN
 
 # Vlad_Galkin_OTN
 
