@@ -1,2 +1,2 @@
-https://github.com/VladislavGalkin28/VladislavGalkin/ono-tebe-nado
+https://github.com/VladislavGalkin28/VladislavGalkin_OTN.git
 
